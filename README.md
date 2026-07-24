@@ -738,3 +738,243 @@ jobs:
           branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<!-- ===================== CURRENT FOCUS ===================== -->
+
+# 🎯 Current Focus & Learning Roadmap
+
+<div align="center">
+
+### From Data Analyst → AI & Data Science Engineer
+
+> Continuously improving my ability to build intelligent, scalable and useful data products.
+
+</div>
+
+---
+
+## 🧠 Currently Exploring
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Advanced AI & ML
+
+- Machine Learning Engineering
+- Advanced Predictive Modeling
+- Model Optimization
+- Time-Series Forecasting
+- Explainable AI
+- Generative AI
+- LLM-powered Applications
+- AI Agents
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ AI Engineering
+
+- FastAPI Backend Development
+- REST API Architecture
+- ML Model Serving
+- Full-Stack AI Applications
+- Next.js + AI Integration
+- Docker Fundamentals
+- Cloud Deployment
+- Production-oriented ML Systems
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data Intelligence
+
+- Advanced Data Analytics
+- Feature Engineering
+- Statistical Analysis
+- Business Intelligence
+- Customer Analytics
+- Anomaly Detection
+- Forecasting
+- Decision Intelligence
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏗️ Engineering Foundations
+
+- Data Structures & Algorithms
+- SQL
+- Database Design
+- Git & GitHub
+- Testing
+- CI/CD
+- System Design Fundamentals
+- Clean Software Architecture
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🗺️ My Development Roadmap
+
+```text
+                    CURRENT
+                       │
+                       ▼
+              ┌─────────────────┐
+              │ DATA ANALYTICS  │
+              │ Python • SQL    │
+              │ EDA • BI        │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │ MACHINE LEARNING│
+              │ Models • Metrics│
+              │ Feature Eng.    │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │  ML ENGINEERING │
+              │ APIs • Testing  │
+              │ Deployment      │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │ GENERATIVE AI   │
+              │ LLMs • RAG      │
+              │ AI Applications │
+              └────────┬────────┘
+                       │
+                       ▼
+              ┌─────────────────┐
+              │  AI ENGINEERING │
+              │ Intelligent     │
+              │ Data Products   │
+              └─────────────────┘
+```
+
+---
+
+## 🚀 2026 Build Goals
+
+- [x] Complete **Data Analytics Internship**
+- [x] Build **Customer Churn Prediction System**
+- [x] Build **E-Commerce Analytics Project**
+- [x] Build first version of **FINORA AI**
+- [ ] Strengthen **SQL & Database Engineering**
+- [ ] Learn **Docker & CI/CD** deeply
+- [ ] Build a production-quality **Generative AI application**
+- [ ] Learn **RAG & Vector Databases**
+- [ ] Improve **DSA & Problem Solving**
+- [ ] Deploy FINORA AI
+- [ ] Build my professional developer portfolio
+- [ ] Contribute to an open-source project
+
+---
+
+## 💡 What I Want to Build
+
+<div align="center">
+
+`AI Systems` • `ML Products` • `Data Platforms` • `Analytics Engines`
+
+`AI Agents` • `Decision Intelligence` • `Business Intelligence`
+
+<br/>
+
+### My goal isn't to collect technologies.
+
+### My goal is to learn how to use them to solve meaningful problems.
+
+</div>
+
+---
+<!-- ===================== CONNECT ===================== -->
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+### Open to learning, collaboration & opportunities in AI and Data Science
+
+<p>
+I'm always interested in connecting with developers, data professionals,
+researchers and people building interesting technology.
+</p>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/ayush-sharma-014763319">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ayush29906@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sharmaayush29">
+  <img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### 💼 Areas I'm Interested In
+
+`Artificial Intelligence` • `Data Science` • `Machine Learning`
+
+`Data Analytics` • `Business Intelligence` • `AI Engineering`
+
+<br/>
+
+> **Have an interesting AI, ML or Data project? I'd be happy to connect.**
+
+</div>
+
+---
+
+## 📬 Contact
+
+```yaml
+Name: Ayush Sharma
+Education: B.Tech — Artificial Intelligence & Data Science
+University: CGC University, Mohali
+Graduation: 2028
+
+GitHub: Sharmaayush29
+LinkedIn: ayush-sharma-014763319
+Email: ayush29906@gmail.com
+
+Current Focus:
+  - Artificial Intelligence
+  - Machine Learning
+  - Data Science
+  - AI Engineering
+```
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you find one of my projects useful or interesting, consider giving the repository a ⭐.
+
+<br/>
+
+**Build • Learn • Experiment • Improve**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width="100%"/>
+
+</div>
