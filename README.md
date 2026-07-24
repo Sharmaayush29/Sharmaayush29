@@ -543,3 +543,198 @@ Projects exploring how historical datasets can be transformed into predictive mo
 </div>
 
 ---
+<!-- ===================== EXPERIENCE ===================== -->
+
+# 🏆 Experience & Learning Journey
+
+## 💼 Data Analytics Intern — ReadyNest Corp.
+
+**June 2026 — July 2026 | 6-Week Internship**
+
+During my internship at **ReadyNest Corp.**, I worked through a project-based learning journey focused on applying data analytics, machine learning, predictive modeling, business intelligence, and application development to practical problems.
+
+### ⚡ What I Worked On
+
+- 📊 Data Cleaning & Exploratory Data Analysis
+- 🧠 Machine Learning & Predictive Modeling
+- 📈 Interactive Analytics Dashboards
+- 👥 Customer Analytics & Churn Prediction
+- 🛒 E-Commerce Business Analytics
+- 🔮 Forecasting & Predictive Intelligence
+- 💡 Business Insights & Recommendations
+- 🌐 Data-driven Application Development
+- 🔧 Git & GitHub Project Management
+
+---
+
+## 🚀 6-Week Project Journey
+
+```text
+WEEK 01
+│
+├── Data Analysis Fundamentals
+├── Data Cleaning
+└── Exploratory Data Analysis
+        │
+        ▼
+WEEK 02
+│
+├── Business Analytics
+├── Visualization
+└── Dashboard Development
+        │
+        ▼
+WEEK 03
+│
+├── Customer Intelligence
+├── Recommendation Analytics
+└── Business Insights
+        │
+        ▼
+WEEK 04
+│
+├── Machine Learning
+├── Customer Churn Prediction
+└── Interactive Prediction Application
+        │
+        ▼
+WEEK 05
+│
+├── End-to-End Data Pipeline
+├── Olist E-Commerce Analytics
+├── Predictive Analytics
+└── Business Intelligence Dashboard
+        │
+        ▼
+WEEK 06
+│
+└── 🚀 FINORA AI
+    AI-Powered Business Intelligence Platform
+```
+
+---
+
+## 🌟 Final Internship Project
+
+<div align="center">
+
+### 🧠 FINORA AI
+
+**AI-Powered Business Intelligence & Financial Analytics Platform**
+
+`DATA` → `ANALYTICS` → `INTELLIGENCE` → `DECISIONS`
+
+</div>
+
+For my final internship project, I developed **FINORA AI**, exploring how multiple areas of data science and software development can be combined into a unified business-intelligence application.
+
+The project brings together concepts including:
+
+`Data Processing` • `Data Quality` • `Business Analytics` • `Machine Learning` • `Forecasting` • `AI-Assisted Analysis` • `Business Recommendations`
+
+<div align="center">
+
+<a href="https://github.com/Sharmaayush29/finora-ai">
+<img src="https://img.shields.io/badge/Explore_FINORA_AI-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🎓 Internship Milestone
+
+<div align="center">
+
+### ✅ Successfully Completed
+
+**6-Week Data Analytics Internship**
+
+### ReadyNest Corp.
+
+**15 June 2026 — 24 July 2026**
+
+<br/>
+
+> From analyzing datasets to building intelligent data applications — this internship strengthened my understanding of how data, machine learning and software can work together to solve business problems.
+
+</div>
+
+---
+
+## 💡 Key Takeaways
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 📊 DATA
+
+Cleaning  
+EDA  
+Visualization  
+Business Analytics
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧠 INTELLIGENCE
+
+Machine Learning  
+Predictive Analytics  
+Forecasting  
+Business Insights
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚙️ ENGINEERING
+
+Git & GitHub  
+APIs  
+Dashboards  
+Full-Stack Applications
+
+</td>
+</tr>
+</table>
+
+---
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Sharmaayush29
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+          branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
