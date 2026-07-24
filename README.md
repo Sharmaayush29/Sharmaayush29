@@ -486,3 +486,60 @@ Projects exploring how historical datasets can be transformed into predictive mo
 </div>
 
 ---
+<!-- ===================== GITHUB ANALYTICS ===================== -->
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+### ⚡ Development Activity & Open-Source Journey
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sharmaayush29&show_icons=true&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmaayush29&layout=compact&hide_border=true&langs_count=8" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Sharmaayush29&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sharmaayush29&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Profile Summary
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sharmaayush29&theme=github_dark" />
+
+<br/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sharmaayush29&theme=github_dark" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sharmaayush29&theme=github_dark" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sharmaayush29&theme=github_dark&utcOffset=5.5" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🧠 Code. Analyze. Build. Improve.
+
+`AI` • `Machine Learning` • `Data Science` • `Analytics` • `Full-Stack Development`
+
+</div>
+
+---
