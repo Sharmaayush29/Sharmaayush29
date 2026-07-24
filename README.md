@@ -1,26 +1,43 @@
-<h1 align="center">Hi 👋, I'm Ayush Sharma</h1>
+<div align="center">
 
-<h3 align="center">
-AI & Data Science | Machine Learning | Data Analytics | Business Intelligence
-</h3>
+# 👋 Hi, I'm Ayush Sharma
 
-<p align="center">
-Building intelligent applications that transform raw data into insights, predictions, and better business decisions.
+### AI & Data Science • Machine Learning • Data Analytics • Business Intelligence
+
+<p>
+Building intelligent, data-driven applications that transform
+<b>raw data → insights → predictions → business decisions.</b>
 </p>
 
-<p align="center">
-  🎓 B.Tech Artificial Intelligence & Data Science | CGC University, Mohali
-</p>
+<br/>
 
-<p align="center">
-  🚀 Currently Building <b>FINORA AI</b>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science;Machine+Learning+%26+Predictive+Analytics;Business+Intelligence+%26+Data+Analytics;Building+Full-Stack+AI+Applications;Currently+Building+FINORA+AI" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sharmaayush29&label=Profile+Views" />
+
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**
-- 🏫 **CGC University, Mohali**
-- 🎯 Expected Graduation: **2028**
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**
-- 📊 Working with **Data Analytics & Business Intelligence**
-- 🚀 Currently developing **FINORA AI**
-- 🌱 Exploring **Generative AI, ML Engineering & Full-Stack AI Applications**
+```python
+class AyushSharma:
+    education = "B.Tech — Artificial Intelligence & Data Science"
+    university = "CGC University, Mohali"
+    graduation = 2028
+
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Science",
+        "Data Analytics",
+        "Business Intelligence",
+        "Full-Stack AI Applications"
+    ]
+
+    currently_building = "FINORA AI"
+
+    goal = "Build intelligent systems that turn data into decisions."
