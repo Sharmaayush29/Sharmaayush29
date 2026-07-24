@@ -160,3 +160,181 @@ FINORA AI explores an intelligent workflow for transforming business datasets in
 </div>
 
 ---
+<!-- ===================== TECH ARSENAL ===================== -->
+
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+### 🧠 AI • Machine Learning • Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow" />
+</p>
+
+`Machine Learning` • `Predictive Modeling` • `Classification` • `Regression` • `Clustering` • `Forecasting`
+
+<br/>
+
+### 📊 Data Analytics & Business Intelligence
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
+<br/><br/>
+
+`EDA` • `Data Cleaning` • `Feature Engineering` • `Data Visualization` • `Business Analytics`
+
+<br/>
+
+### 🌐 Full-Stack AI Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,fastapi,flask" />
+</p>
+
+`REST APIs` • `AI Applications` • `Analytics Dashboards` • `Frontend ↔ Backend Integration`
+
+<br/>
+
+### 🗄️ Databases & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+</p>
+
+`SQL` • `Data Modeling` • `Data Processing`
+
+<br/>
+
+### 🛠️ Engineering & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" />
+</p>
+
+`Git` • `GitHub` • `Version Control` • `Docker` • `Deployment`
+
+</div>
+
+---
+
+## 🧩 My Engineering Workflow
+
+<div align="center">
+
+```text
+       RAW DATA
+          │
+          ▼
+   ┌──────────────┐
+   │ Data Cleaning│
+   └──────┬───────┘
+          ▼
+   ┌──────────────┐
+   │     EDA      │
+   └──────┬───────┘
+          ▼
+   ┌──────────────┐
+   │   Feature    │
+   │ Engineering  │
+   └──────┬───────┘
+          ▼
+   ┌──────────────┐
+   │ ML / Analytics│
+   └──────┬───────┘
+          ▼
+   ┌──────────────┐
+   │ Evaluation & │
+   │   Insights   │
+   └──────┬───────┘
+          ▼
+   ┌──────────────┐
+   │ FastAPI / API│
+   └──────┬───────┘
+          ▼
+   ┌──────────────┐
+   │ React/Next.js│
+   │     UI       │
+   └──────┬───────┘
+          ▼
+   ┌──────────────┐
+   │  Deployment  │
+   └──────────────┘
+```
+
+</div>
+
+---
+
+## 🎯 Core Competencies
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI & Machine Learning
+
+- Supervised Machine Learning
+- Classification & Regression
+- Predictive Analytics
+- Feature Engineering
+- Model Evaluation
+- Forecasting
+- ML-powered Applications
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Data & Business Intelligence
+
+- Exploratory Data Analysis
+- Data Cleaning & Transformation
+- KPI Development
+- Business Analytics
+- Data Visualization
+- Customer Analytics
+- Insight Generation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend & AI Systems
+
+- Python Applications
+- FastAPI
+- Flask
+- REST API Development
+- ML Model Integration
+- Data Processing Pipelines
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎨 Frontend & Applications
+
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Streamlit
+- Interactive Dashboards
+- Full-Stack AI Applications
+
+</td>
+</tr>
+</table>
+
+---
