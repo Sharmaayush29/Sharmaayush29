@@ -338,3 +338,151 @@ FINORA AI explores an intelligent workflow for transforming business datasets in
 </table>
 
 ---
+<!-- ===================== FEATURED PROJECTS ===================== -->
+
+# 🚀 Featured Engineering Projects
+
+<div align="center">
+
+### Building AI, Machine Learning & Data Intelligence systems from data to deployment.
+
+</div>
+
+<br/>
+
+<!-- ===================== FINORA ===================== -->
+
+## 🧠 01 — FINORA AI
+
+### AI-Powered Business Intelligence Platform
+
+> **Raw Data → Analytics → Intelligence → Decisions**
+
+FINORA AI is my flagship project focused on transforming business datasets into analytics, data-quality intelligence, forecasting, AI-assisted insights and actionable recommendations.
+
+**Key Areas**
+
+`Business Intelligence` • `Data Analytics` • `Machine Learning` • `Forecasting` • `AI Copilot` • `FastAPI` • `Next.js`
+
+**Technology**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+<p align="center">
+<a href="https://github.com/Sharmaayush29/finora-ai">
+<img src="https://img.shields.io/badge/EXPLORE_FINORA_AI-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🤖 02 — Customer Churn Prediction System
+
+### Machine Learning for Customer Retention Intelligence
+
+An end-to-end machine learning project focused on identifying customers who are likely to churn and converting model predictions into useful business intelligence.
+
+**Highlights**
+
+- Customer churn analysis
+- Data preprocessing
+- Feature engineering
+- Classification modeling
+- Model evaluation
+- Interactive prediction workflow
+- Business-oriented insights
+
+**Technology**
+
+`Python` • `Pandas` • `NumPy` • `Scikit-learn` • `Machine Learning` • `Streamlit`
+
+<p align="center">
+<a href="https://github.com/Sharmaayush29/Customer-Churn-Prediction-System">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+## 🛒 03 — Olist E-Commerce Analytics
+
+### End-to-End E-Commerce Data Intelligence
+
+A business analytics project built around e-commerce data, combining multiple datasets to explore customer behavior, sales performance, payments, delivery performance and predictive analytics.
+
+**Highlights**
+
+- Multi-table data integration
+- ETL & preprocessing
+- Sales analytics
+- Customer analytics
+- Product analytics
+- Delivery analysis
+- Payment analysis
+- Predictive modeling
+- Business recommendations
+
+**Technology**
+
+`Python` • `Pandas` • `Scikit-learn` • `Plotly` • `Streamlit` • `Data Analytics`
+
+---
+
+## 💡 04 — Customer Insights & Recommendation Dashboard
+
+### Customer Intelligence & Recommendation Analytics
+
+An analytics application focused on discovering customer patterns and transforming behavioral information into useful insights and recommendations.
+
+**Highlights**
+
+- Customer segmentation
+- Behavioral analytics
+- Recommendation-oriented analysis
+- KPI monitoring
+- Interactive dashboard
+- Business insights
+
+**Technology**
+
+`Python` • `Pandas` • `Data Analytics` • `Machine Learning` • `Streamlit`
+
+<p align="center">
+<a href="https://github.com/Sharmaayush29/Customer_insights_Recommendation_Dashboard">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+## 🔮 05 — Predictive Analytics Projects
+
+### From Historical Data to Future Intelligence
+
+Projects exploring how historical datasets can be transformed into predictive models and decision-support applications.
+
+**Focus Areas**
+
+`Predictive Modeling` • `Feature Engineering` • `Model Evaluation` • `Forecasting` • `Business Intelligence`
+
+---
+
+<div align="center">
+
+### 💻 Project Philosophy
+
+**DATA → UNDERSTAND → MODEL → BUILD → DEPLOY → IMPROVE**
+
+<br/>
+
+> I focus on projects that connect data analysis with usable applications rather than stopping at notebooks.
+
+</div>
+
+---
